@@ -1,0 +1,34 @@
+#Surpreme {
+    text-align: center;
+}
+
+#Btn {
+    text-align: center;
+    margin-left: 625px;
+}
+
+#counter {
+    text-align: center;
+    margin-left: 325pxpx;
+}
+
+#img {
+justify-content: center;
+margin-left: 400px;
+}
+
+img{
+    border-style: ridge;
+}
+
+#shopbtn{
+    border: solid black 1px;
+    height: 25px;
+    width: 60x;
+    position: absolute;
+    left: 650px;
+    top: 600px;
+    text-decoration: none;
+    color: black;
+    background: white;
+}
